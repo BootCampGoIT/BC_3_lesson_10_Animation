@@ -1,0 +1,22 @@
+/* styled-transition-group */
+
+
+/* .appear {
+  transform: translateX(-200px);
+}
+
+.appearActive {
+  transform: translateX(0);
+  transition: transform 3000ms linear;
+} */
+
+/* =============== bug ==================== */
+/* .enter {
+  transform: translateX(-200px);
+}
+
+.enterActive {
+  transform: translateX(0);
+  transition: transform 3000ms linear;
+} */
+
